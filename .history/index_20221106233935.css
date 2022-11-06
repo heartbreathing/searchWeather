@@ -4,7 +4,7 @@
     box-sizing: border-box ;
 }
 body {
-    background-color: rgb(148, 141, 247);
+    background-color: #fff;
     background-image: url(./image/background_image.jpg); 
     background-repeat: no-repeat;
     background-size:cover;  
