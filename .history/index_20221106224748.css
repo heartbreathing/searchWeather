@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+body {
+    background-image: url(./image/background_image.jpg) ; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: rgb(16, 1, 50);
+}
+.content {
+    position: absolute;
+    display: inline-block;
+    width: 300px;
+    top:50%;
+    left:50%;
+    transform: translate(-35%, -50%); 
+    row-gap: 1rem; 
+}
+h1 {
+    margin-bottom: 1rem;
+}
+.content_line {
+    font-size: 1rem;
+    margin-top: ;
+
+
+}
