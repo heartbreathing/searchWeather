@@ -19,7 +19,7 @@
         const wind = document.querySelector('.wind');
         const forecast = document.querySelector('.content');
         const description = document.querySelector('.description');
-        const name = document.querySelector('.name')
+        // const name = document.querySelector('.name')
 
         temp.innerHTML = data.temperature;
         wind.innerHTML = data.wind;
